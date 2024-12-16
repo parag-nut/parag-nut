@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @parag-nut
+- 👋 Hi, I’m @parag-ntnx
 - 👀 I’m interested in solving problems
 - 🌱 I’m currently learning design patterns
 - 💞️ I’m looking to collaborate on IDK yet
